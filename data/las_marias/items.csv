@@ -1,0 +1,28 @@
+﻿item_id;sku;item_name;item_cat;item_price
+1;CAR-TAP-ASA;Tapa de Asado;Carnes;12
+2;CAR-MED-POL;1/2 pollo;Carnes;12
+3;CAR-UNO-POL;Pollo entero;Carnes;7
+4;CAR-MAT-PIZ;Matambre a la pizza;Carnes;12
+5;CAR-MAT-ROQ;Matambre al roquefort;Carnes;11
+6;PAS-TAL-FIL;Tallarines con filetto;Pastas;5
+7;PAS-TAL-BOL;Tallarines con bolognesa;Pastas;6
+8;PAS-SOR-JYQ;Sorrentinos de JyQ;Pastas;3
+9;PAS-LAS-VRQ;Lasagna;Pastas;7
+10;PAS-NOQ-EST;Noquis con estofado;Pastas;5
+11;PZZ-MUZ;Muzzarela;Pizzas;8
+12;PZZ-NAP;Napolitana;Pizzas;14
+13;PZZ-ESP;Especial;Pizzas;12
+14;PZZ-CAL;Calabresa;Pizzas;16
+15;PAP-SIM;Papas simples;Papas;5
+16;PAP-VER;Papas verdeo;Papas;7
+17;PAP-CHE;Papas con cheddar;Papas;6
+18;PAP-AME;Papas americanas;Papas;9
+19;HAM-SIM;Hamburguesa simple;Hamburguesas;3
+20;HAM-DOB;Hamburguesa doble;Hamburguesas;6
+21;HAM-TRI;Hamburguesa triple;Hamburguesas;9
+22;HAM-GIG;Hamburguesa gigante;Hamburguesas;11
+23;BEB-COC;Coca-Cola 1L;Bebidas;3
+24;BEB-SPR;Sprite 1L;Bebidas;3
+25;BEB-FAN;Fanta 1L;Bebidas;3
+26;BEB-AGU;Agua 1L;Bebidas;1
+27;BEB-SAB;Agua saborizada 1L;Bebidas;2

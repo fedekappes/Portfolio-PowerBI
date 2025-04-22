@@ -1,0 +1,17 @@
+﻿staff_id;staff_firstname;staff_lastname;position;hourly_pay
+1;Juan;Pérez;Chef;15
+2;María;Rodríguez;Sous Chef;12
+3;Carlos;Gómez;Cocinero;10
+4;Ana;Fernández;Cocinero;10
+5;Laura;Díaz;Ayudante de cocina;8
+6;Pedro;López;Ayudante de cocina;8
+7;Javier;Sánchez;Repartidor;10
+8;Raúl;Ruiz;Repartidor;10
+9;Beatriz;Castro;Cajero;9
+10;Jorge;Romero;Supervisor;14
+11;Laura;Pérez;Cocinero;10
+12;Martín;Herrera;Cocinero;10
+13;Marta;Ruiz;Repartidor;10
+14;Carlos;Fernández;Repartidor;10
+15;Miguel ;Beltrán;Supervisor;14
+16;Yamila;Ramirez;Cajero;9

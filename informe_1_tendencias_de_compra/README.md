@@ -12,9 +12,9 @@ Este dashboard busca no solo mostrar datos, sino generar insights accionables pa
 
 Ahora los invito a recorrerlo juntos y descubrir qué nos dicen los datos de este 2025.
 
-![Alt text](img1.jpg)
+![Primer página del informe gráfico en PowerBI](img1.jpg)
 
 
-![Alt text](img2.jpg)
+![Segunda página del informe gráfico en PowerBI](img2.jpg)
 
 Recuerden que pueden descargar el archivo Shopping.pbix y el archivo de datos correspondiente (ubicado en la carpeta data) para analizarlo personalmente.
