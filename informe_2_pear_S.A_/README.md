@@ -13,6 +13,6 @@ Vamos a ver cómo se comportan nuestros márgenes en distintos mercados, qué pr
 
 La idea es que este dashboard no solo muestre el desempeño actual, sino que también nos ayude a pensar estratégicamente los próximos pasos de la compañía.
 
-![Alt text](img3.jpg)
+![Alt text](img3.JPG)
 
 Recuerden que pueden descargar el archivo Pear.pbix y el archivo de datos correspondiente (ubicado en la carpeta data) para analizarlo personalmente.
