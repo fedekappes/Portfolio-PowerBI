@@ -68,7 +68,9 @@ Después de modelar la base de datos y cargar la información, llega el paso cla
     - 📌 Eficiencia en la planificación: Ajustes de turnos y recursos según demanda real. 
 
 ![Dashboard del control de órdenes](reporte1.JPG)
+
 ![Dashboard del control de inventario](reporte2.JPG)
+
 ![Dashboard del control de staff](reporte3.JPG)
 
 Mientras que el Dashboard en cuestión lo pueden encontrar en el archivo 'reporte_las_marias'
