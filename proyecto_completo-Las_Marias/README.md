@@ -57,12 +57,14 @@ Las archivos que almacenan las VIEWS en cuestión son:
 Después de modelar la base de datos y cargar la información, llega el paso clave: convertir los datos en decisiones estratégicas. Con Power BI, diseñamos dashboards para monitorear la marcha del negocio en tiempo real, integrando ventas, costos, stock e incluso la gestión del staff. 
 
 🔹 ¿Qué analizamos en el dashboard? 
+
     - 📌 Ventas y demanda: Total por período, tipo de orden (retiro/delivery), franjas horarias de mayor movimiento, productos más ordenados e ingresos obtenidos. 
     - 📌 Control de costos: Análisis del margen de ganancia por producto y evolución de costos. 
     - 📌 Inventario y stock: Niveles de stock, productos con alta rotación e identificación de los ingredientes próximos a terminarse, para su reposición. 
     - 📌 Gestión del staff: Horas trabajadas, en cada turno y costo total del staff. 
 
 🔹 Beneficios del dashboard: 
+
     - 📌 Mayor control operativo: Identificación de quiebres de stock y optimización de compras. 
     - 📌 Mejora en la rentabilidad: Visión clara de los márgenes de cada producto. 
     - 📌 Eficiencia en la planificación: Ajustes de turnos y recursos según demanda real. 
